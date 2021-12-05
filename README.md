@@ -1,4 +1,4 @@
-# JS_Node_Practice
+# JS_Practice-Projects
 Practice Folder containing p of pieces small logic 
 # This is a Folder containing all my Practice codes.
 * I have Small peices of Code in each named files. Which I have written while I was trying to figure out the logic behind.
